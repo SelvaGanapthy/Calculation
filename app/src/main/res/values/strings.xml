@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculation</string>
+    <string name="supplier_prompt">Supplier Name</string>
+    <string-array name="Supplier_arrays">
+    </string-array>
+
+    <string name="sitename_prompt">Site Name</string>
+    <string-array name="sitename_arrays">
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="measurementspage_value_txt_a">(a) Body level measurement above body level</string>
+    <string name="measurementspage_value_txt_b">(b) Tapper size maximum</string>
+    <string name="measurementspage_value_txt_c">(c) Tapper size minimum</string>
+    <string name="measurementspage_value_txt_d">(d) Total (b+c)</string>
+    <string name="measurementspage_value_txt_e">(e) 50% above of (d) quantity</string>
+    <string name="measurementspage_value_txt_totalofaande">Total quantity for the trip (a+e)</string>
+    <string name="measurementspage_value_txt_length">Length</string>
+    <string name="measurementspage_value_txt_breadth">Breadth</string>
+    <string name="measurementspage_value_txt_height">Height</string>
+    <string name="measurementspage_value_txt_total">Total</string>
+
+</resources>
